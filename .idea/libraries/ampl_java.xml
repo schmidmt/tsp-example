@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ampl-java">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/ampl_macos64/amplapi/lib/ampl-java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
